@@ -1,0 +1,19 @@
+.header{
+    height: 8%;
+}
+.header-container{
+    background-color: #F55A5A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.header-container img{
+    height: 40%
+}
+
+.header-container span{
+    margin-left: 10px;
+    color: white;
+}

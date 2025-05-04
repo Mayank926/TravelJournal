@@ -1,8 +1,9 @@
+import './Header.css';
 const Header = () => {
     return (
-        <header>
+        <header className='header'>
             <div className="header-container">
-                <img src = "images/globe.png" alt="Globe Icon"></img>
+                <img src = "/TravelJournal/images/globe.png" alt="Globe Icon"/>
                 <span>my travel journal</span>
             </div>
         </header>

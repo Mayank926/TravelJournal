@@ -1,0 +1,9 @@
+.App{
+    width: 50%;
+    height:65%;
+    background-color: white;
+    border : 4px solid white;
+    border-radius: 20px;
+    overflow: hidden;
+    font-family: Inter;
+}
