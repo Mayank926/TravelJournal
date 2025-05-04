@@ -13,7 +13,7 @@ const Entry = (props) => {
       <div className="entryContent">
         <div className="NavigationFlex">
           <img
-            src="TravelJournal/images/marker.png"
+            src="images/marker.png"
             id="mapPinLogo"
             alt="mapPin"
           ></img>
