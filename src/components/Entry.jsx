@@ -18,7 +18,7 @@ const Entry = (props) => {
             alt="mapPin"
           ></img>
           <span id="countryName">{props.country}</span>
-          <a href={props.googleMapLink}>Vew on Google Maps</a>
+          <a href={props.googleMapsLink}>Vew on Google Maps</a>
         </div>
         <h1>{props.title}</h1>
         <h5>{props.dates}</h5>
